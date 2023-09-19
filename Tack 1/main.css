@@ -1,0 +1,18 @@
+html {
+    font-size: 22px
+}
+
+body{
+    background-color:rgb(255, 255, 255) ;
+    color:rgb(27, 27, 27)
+}
+.underline {
+  text-decoration: underline;
+}
+table, tr, th, td, caption
+{
+    border: 1px solid #000000;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: separate;
+    padding: 0.5rem;
+}
